@@ -1,0 +1,4 @@
+this repository is for day to day coding practise of interview questions. 
+# make sure take 30 min each day on coding one question
+# finish code in google doc, and compile in eclipse
+# then commit to the repository
